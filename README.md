@@ -1,4 +1,4 @@
-# Mediım Articles 
+# Medium Articles 
 
 This repositories contains code files that I use in the examples of my medium articles. 
 
